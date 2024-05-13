@@ -3,8 +3,9 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 
 type Props = {
-children: React.ReactNode;
-};
+    children: React.ReactNode;
+    showHero?: boolean;
+  };
 
 const Layout = ({children}: Props) => {
  return(
