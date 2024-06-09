@@ -26,11 +26,13 @@ For development, you will only need Node.js and a node global package, NPM, inst
 
 External packages used:
 
-    "@upstash/redis": "^1.22.0",
-    "ai": "^2.1.32",
-    "langchain": "^0.0.124",
-    "openai": "^3.3.0",
-    "openai-edge": "^1.2.2"
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.376.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.2.2"
 
 ---
 
